@@ -21,3 +21,10 @@ C:/Users/cynth/Desktop/NetOverHaul/Method-Overloading-Exercise-/MethodOverloadin
 /Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.dll
 /Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/refint/MethodOverloading.dll
 /Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.pdb
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.deps.json
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.runtimeconfig.json
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.dll
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.pdb
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.genruntimeconfig.cache
+/Users/briungreene/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/ref/MethodOverloading.dll

@@ -6,7 +6,10 @@ namespace MethodOverloading
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+           // Console.WriteLine("Hello, World!");
+           Console.WriteLine(Add(4, 5));
+           Console.WriteLine(Add(33.24m, 44.58m));
+           Console.WriteLine(Add(1, 0, false));
         }
 
         public static int Add(int a, int b)
@@ -21,16 +24,20 @@ namespace MethodOverloading
 
         public static string Add(int a, int b, bool dollar)
         {
-            if (a + b > 1)
+            var sum = a + b;
+            if (dollar == true && sum > 1)
             {
-                dollar = false;
-                return $" {a + b} dollars";
-                }
-            if (a + b == 1)
+                return $"{sum} dollars";
+            }
+            else if (sum == 1 && dollar == true)
             {
-                dollar = true;
-                return $"{a + b} dollar";
-                }
+                return $"{sum} dollar";
+            } 
+            else 
+            {
+                
+                return sum.ToString();
+            }
         }
     }
 }
